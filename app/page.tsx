@@ -1,4 +1,3 @@
-import Image from "next/image";
 import ImageSpinner from './components/ImageSpinner';
 
 export default function Home() {
